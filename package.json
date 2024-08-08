@@ -39,7 +39,8 @@
     "ws": "^8.16.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.23.9",
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.24.0",
     "docdash": "^2.0.2",
     "eslint": "^8.57.0",
